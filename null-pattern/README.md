@@ -1,0 +1,3 @@
+Represents doing nothing as a valid action...
+
+http://www.oodesign.com/null-object-pattern.html
