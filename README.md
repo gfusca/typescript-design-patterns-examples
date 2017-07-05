@@ -15,7 +15,7 @@ A set of design patterns implementations examples in Typescript
 ## How to install?
 
 ```bash
-    $ npm install .
+    $ npm install
 ```
 
 ## How to run an example?
