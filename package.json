@@ -4,11 +4,13 @@
   "description": "A set of design patterns implementations in Typescript",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc"
+    "build": "tsc",
+    "prestart": "npm run build",
+    "start": "node build/$EXAMPLE/demo.js"
   },
   "author": "Gabriel Fusca",
   "license": "MIT",
   "dependencies": {
-    "typescript": "^2.4.1"
+    "typescript": "2.4.1"
   }
 }
