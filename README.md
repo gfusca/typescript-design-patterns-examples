@@ -2,15 +2,18 @@
 
 A set of design patterns implementations examples in Typescript
 
-* Singleton
-* Factory
-* Observer
-* Strategy
 * Chain of Responsibility
 * Command
-* Iterator
+* Composite
 * Decorator
+* Factory
+* Iterator
+* Null Object
+* Observer
 * Proxy
+* Singleton
+* Strategy
+
 
 ## How to install?
 
