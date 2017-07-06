@@ -20,7 +20,10 @@ A set of design patterns implementations examples in Typescript
 
 ## How to run an example?
 
-Just run run_demo.sh script passing demo name as call argument. Example?
-```bash
-    $ bash run_demo.sh singleton
+Just run run_demo.sh script passing demo name as call argument.
+
+Example:
+
+```
+    $ EXAMPLE=strategy npm start
 ```
