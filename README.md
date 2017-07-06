@@ -15,7 +15,7 @@ A set of design patterns implementations examples in Typescript
 * Strategy
 
 
-## How to install?
+## How to install dependencies?
 
 ```bash
     $ npm install
